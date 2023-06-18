@@ -1,4 +1,3 @@
-clear
 while True:
     N = input("\n\n\n\n\nEnter your full name :")
     E = input("Enter your email address :")
